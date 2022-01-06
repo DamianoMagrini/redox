@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.underline.line-through {
+	text-decoration-line: underline line-through;
+}
